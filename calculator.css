@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
+  font-weight: 500;
+}
+
+p {
+  margin: 15px 10px;
+}
+
+.result {
+  height: 20px;
+  font-size: 1.8em;
+  margin-bottom: 40px;
+  padding-inline: 10px;
+}
+
+.calculator-button {
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  font-size: 1.5em;
+  margin-right: 5px;
+}
+
+.orange-button {
+  background-color: orange;
+  color: white;
+}
+
+.clear-button {
+  font-size: 1em;
+}
